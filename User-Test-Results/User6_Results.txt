@@ -1,0 +1,162 @@
+added 30565 in colour 72
+added 60208 in colour 71
+added 60208 in colour 15
+added 87081 in colour 0
+added 2339 in colour 70
+added 6579 in colour 0
+added 6580 in colour 72
+added 2417 in colour 2
+added 47407 in colour 0
+added 2423 in colour 326
+added 30565 in colour 70
+added 3956 in colour 6
+added 2339 in colour 70
+added 3678b in colour 70
+added 2456 in colour 0
+added 30367b in colour 71
+added 4460b in colour 308
+added 87081 in colour 0
+added 3737 in colour 0
+added 6579 in colour 0
+added 6579 in colour 0
+added 30565 in colour 70
+added 970x026 in colour 15
+added 3894 in colour 71
+added 6091 in colour 15
+added 2417 in colour 2
+added 30176 in colour 2
+added 3666 in colour 320
+added 54384 in colour 320
+added 3707 in colour 0
+added 4201 in colour 72
+added 6003 in colour 2
+added 3839b in colour 0
+added 43719 in colour 320
+added 32249 in colour 1
+added 40253 in colour 70
+Confirmed 100% 4752-1 Professor Lupin's Classroom
+added 57899 in colour 0
+added 30088 in colour 0
+added 6579 in colour 0
+added 973c12h02pr0907 in colour 72
+added 2877 in colour 0
+added 973c27h03pr1389 in colour 15
+added 60208 in colour 71
+added 60208 in colour 71
+added 30382 in colour 6
+added 3039 in colour 70
+added 3701 in colour 72
+added 50860 in colour 72
+added 32018 in colour 72
+added 6003 in colour 72
+added 42687 in colour 148
+added 98136 in colour 27
+added 60208 in colour 15
+added 60208 in colour 15
+added 4460b in colour 308
+added 970c00pr0275 in colour 15
+added 30357 in colour 19
+added 30382 in colour 6
+added 61485 in colour 0
+added 3702 in colour 71
+added 2431pr0029 in colour 8
+added 6003 in colour 72
+added 41669 in colour 135
+added 50859a in colour 0
+added 6580 in colour 72
+added 3941 in colour 70
+added 6108 in colour 0
+added 30602pr0013 in colour 27
+added 30602pr0013 in colour 27
+added 61189pr0003 in colour 15
+added 3679 in colour 71
+added 3680 in colour 0
+added 3039 in colour 378
+added 3039 in colour 378
+added 61189pr0008 in colour 25
+Confirmed 100% 7913-1 Clone Trooper Battle Pack
+added 4740 in colour 14
+added 48092 in colour 71
+added 6112 in colour 71
+added 61976 in colour 70
+added 32138 in colour 0
+added 6232 in colour 19
+added 48336 in colour 19
+added 61189pr0001 in colour 15
+added 43712 in colour 71
+added 30151a in colour 42
+added 60481 in colour 378
+Confirmed 76.73% 8384-1 Jungle Crasher
+added 32525 in colour 15
+added 3626bpr0525 in colour 78
+added 4460b in colour 28
+added 30136 in colour 70
+added 2417 in colour 2
+added 2417 in colour 2
+added 2417 in colour 2
+added 2417 in colour 2
+added 60208 in colour 320
+added 60208 in colour 15
+added 60208 in colour 15
+added 60208 in colour 15
+added 60208 in colour 15
+added 60208 in colour 71
+added 60208 in colour 71
+added 60208 in colour 71
+added 3035 in colour 71
+added 3035 in colour 71
+added 3036 in colour 71
+added 2357 in colour 70
+added 2853 in colour 14
+added 4495b in colour 4
+added 3738 in colour 0
+added 98283 in colour 28
+added 3068bpr0139 in colour 19
+added 30044 in colour 72
+added 98134 in colour 297
+added 30376 in colour 19
+added 47397 in colour 71
+added 4349 in colour 0
+added 6134 in colour 1
+added 3937 in colour 0
+added 41531 in colour 71
+added 30382 in colour 6
+added 3678b in colour 70
+Confirmed 60.43% 7111-1 Droid Fighter
+Confirmed 78.64% 8019-1 Republic Attack Shuttle
+added 6125 in colour 15
+added 30238 in colour 25
+added 60208 in colour 320
+added 2476a in colour 19
+added 3831 in colour 0
+added 3830 in colour 0
+added 3675 in colour 0
+added 4204 in colour 72
+added 30171 in colour 0
+added 30180 in colour 15
+added 47758 in colour 0
+added 60474 in colour 72
+added 30240 in colour 72
+Confirmed 56.68% 7620-1 Indiana Jones Motorcycle Chase
+added 40249 in colour 19
+Confirmed 34.85% 79002-1 Attack of the Wargs
+Confirmed 27.37% 8091-1 Republic Swamp Speeder
+added 32348 in colour 71
+
+
+Results
+
+4752: Professor Lupin's Classroom 	- yes
+7111: Droid Fighter			- yes
+7620: Indiana Jones Motorcycle Chase	- yes
+7913: Clone Trooper Battle Pack		- yes
+8019: Republic Attack Shuttle		- yes
+8091: Republic Swamp Speeder		- yes
+8384: Jungle Crasher			- yes
+9440: Venomari Shrine			- no
+30240: Z-95 Headhunter			- no
+79002: Attack of the Wargs		- yes
+
+
+Accuracy 8/10
+Time 02:09:58.20 

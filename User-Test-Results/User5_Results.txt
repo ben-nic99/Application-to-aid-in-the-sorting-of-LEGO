@@ -1,0 +1,97 @@
+added 43719 in colour 27
+added 973c34h03pr0480 in colour 15
+Confirmed 100% 7913-1 Clone Trooper Battle Pack
+added 6180 in colour 320
+added 30375 in colour 19
+added 40249 in colour 19
+added 40243 in colour 19
+added 6580 in colour 72
+added 32348 in colour 71
+Confirmed 100% 4752-1 Professor Lupin's Classroom
+added 98136 in colour 27
+added 30151a in colour 42
+added 60208 in colour 320
+added 4204 in colour 72
+added 63965 in colour 71
+added 50862 in colour 71
+added 6180 in colour 320
+added 6003 in colour 2
+added 3666 in colour 27
+added 30238 in colour 25
+added 44674pr0001 in colour 27
+added 47758 in colour 0
+added 30382 in colour 6
+added 2417 in colour 2
+added 6558 in colour 1
+added 6125 in colour 15
+added 2540 in colour 27
+Confirmed 70.06% 8384-1 Jungle Crasher
+added 3039pr0015 in colour 0
+added 2817 in colour 4
+added 32138 in colour 0
+added 61780 in colour 70
+added 32018 in colour 72
+added 3795 in colour 14
+added 3068bpr0139 in colour 19
+added 47753pr0003 in colour 28
+added 46667 in colour 72
+added 973c27h03pr1897 in colour 15
+added 973c11h19pr2063 in colour 308
+added 2417 in colour 2
+added 3626bpr0747 in colour 14
+added 6069pr0007 in colour 8
+added 30384 in colour 40
+added 60208 in colour 15
+added 30240 in colour 72
+added 3626bpr0525 in colour 78
+added 973c26h02pr1374 in colour 19
+added 4079 in colour 1
+added 32249 in colour 1
+added 4740pr0006 in colour 28
+added 2431pr0029 in colour 8
+added 973c07h02pr1370 in colour 308
+added 98134 in colour 297
+Confirmed 51.35% 9440-1 Venomari Shrine
+added 30180 in colour 15
+added 30165 in colour 72
+added 92742pr0001 in colour 15
+added 6126b in colour 41
+added 61189pr0008 in colour 25
+added 60752 in colour 179
+added 61485 in colour 0
+added 43712 in colour 71
+added 41669 in colour 135
+added 33009pr0007 in colour 4
+added 3626b in colour 57
+added 4498 in colour 70
+added 6141 in colour 36
+added 50859a in colour 0
+added 50860 in colour 72
+Confirmed 68.28% 7620-1 Indiana Jones Motorcycle Chase
+Confirmed 47.64% 8019-1 Republic Attack Shuttle
+added 41889 in colour 148
+added 48092 in colour 71
+Confirmed 20% 8091-1 Republic Swamp Speeder
+Confirmed 48.86% 7111-1 Droid Fighter
+Confirmed 43.88% 79002-1 Attack of the Wargs
+added 3941 in colour 4
+Confirmed 1.07% 6348-1 Surveillance Squad
+
+
+
+Results
+
+4752: Professor Lupin's Classroom 	- yes
+7111: Droid Fighter			- yes
+7620: Indiana Jones Motorcycle Chase	- yes
+7913: Clone Trooper Battle Pack		- yes
+8019: Republic Attack Shuttle		- yes
+8091: Republic Swamp Speeder		- yes
+8384: Jungle Crasher			- yes
+9440: Venomari Shrine			- yes
+30240: Z-95 Headhunter			- no
+79002: Attack of the Wargs		- yes
+
+
+Accuracy 9/10
+Time 01:11:42.45 

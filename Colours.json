@@ -1,0 +1,195 @@
+{
+  "Colours": [
+    {
+      "ID": "15",
+      "name": "White",
+      "img": "white.png",
+    },
+    {
+      "ID": "0",
+      "name": "Black",
+      "img": "black.png",
+    },
+    {
+      "ID": "71",
+      "name": "Light Blueish Gray",
+      "img": "lightblay.png",
+    },
+    {
+      "ID": "8",
+      "name": "Dark Gray",
+      "img": "darkgray.png",
+    },
+    {
+      "ID": "72",
+      "name": "Dark Blueish Gray",
+      "img": "darkblay.png",
+    },
+    {
+      "ID": "135",
+      "name": "Pearl Light Gray",
+      "img": "pearllightgray.png",
+    },
+    {
+      "ID": "148",
+      "name": "Pearl Dark Gray",
+      "img": "pearldarkgray.png",
+    },
+    {
+      "ID": "80",
+      "name": "Metallic silver",
+      "img": "metsilver.png",
+    },
+    {
+      "ID": "179",
+      "name": "Flat silver",
+      "img": "flatsilver.png",
+    },
+    {
+      "ID": "1",
+      "name": "Blue",
+      "img": "blue.png",
+    },
+    {
+      "ID": "272",
+      "name": "Dark Blue",
+      "img": "darkblue.png",
+    },
+    {
+      "ID": "4",
+      "name": "Red",
+      "img": "red.png",
+    },
+    {
+      "ID": "320",
+      "name": "Dark Red",
+      "img": "darkred.png",
+    },
+    {
+      "ID": "6",
+      "name": "Brown",
+      "img": "brown.png",
+    },
+    {
+      "ID": "70",
+      "name": "Redish Brown",
+      "img": "redbrown.png",
+    },
+    {
+      "ID": "308",
+      "name": "Dark Brown",
+      "img": "darkbrown.png",
+    },
+    {
+      "ID": "19",
+      "name": "Tan",
+      "img": "tan.png",
+    },
+    {
+      "ID": "28",
+      "name": "Dark Tan",
+      "img": "darktan.png",
+    },
+    {
+      "ID": "78",
+      "name": "Light Flesh",
+      "img": "lightflesh.png",
+    },
+    {
+      "ID": "25",
+      "name": "Orange",
+      "img": "orange.png",
+    },
+    {
+      "ID": "484",
+      "name": "Dark Orange",
+      "img": "darkorange.png",
+    },
+    {
+      "ID": "134",
+      "name": "Copper",
+      "img": "copper.png",
+    },
+    {
+      "ID": "297",
+      "name": "Pearl Gold",
+      "img": "pgold.png",
+    },
+    {
+      "ID": "14",
+      "name": "Yellow",
+      "img": "yellow.png",
+    },
+    {
+      "ID": "2",
+      "name": "Green",
+      "img": "green.png",
+    },
+    {
+      "ID": "378",
+      "name": "Sand Green",
+      "img": "sandgreen.png",
+    },
+    {
+      "ID": "326",
+      "name": "Olive Green",
+      "img": "olivegreen.png",
+    },
+    {
+      "ID": "27",
+      "name": "Lime",
+      "img": "lime.png",
+    },
+    {
+      "ID": "36",
+      "name": "Trans Red",
+      "img": "tred.png",
+    },
+    {
+      "ID": "33",
+      "name": "Trans Dark Blue",
+      "img": "tdblue.png",
+    },
+    {
+      "ID": "41",
+      "name": "Trans Light Blue",
+      "img": "tlblue.png",
+    },
+    {
+      "ID": "34",
+      "name": "Trans Green",
+      "img": "tgreen.png",
+    },
+    {
+      "ID": "42",
+      "name": "Trans Neon Green",
+      "img": "tngreen.png",
+    },
+    {
+      "ID": "46",
+      "name": "Trans Yellow",
+      "img": "tyellow.png",
+    },
+    {
+      "ID": "57",
+      "name": "Trans Neon Orange",
+      "img": "tnorange.png",
+    },
+    {
+      "ID": "52",
+      "name": "Trans Purple",
+      "img": "tpurp.png",
+    },
+    {
+      "ID": "47",
+      "name": "Trans Clear",
+      "img": "tclear.png",
+    },
+    {
+      "ID": "40",
+      "name": "Trans Black",
+      "img": "tblack.png",
+    }
+    
+ ]
+}

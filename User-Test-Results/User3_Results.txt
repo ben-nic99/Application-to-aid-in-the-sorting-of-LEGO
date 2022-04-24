@@ -1,0 +1,118 @@
+added 6003 in colour 2
+added 6180 in colour 71
+added 30565 in colour 70
+added 30357 in colour 70
+added 6003 in colour 72
+added 3030 in colour 71
+added 3030 in colour 71
+added 3030 in colour 71
+added 3034 in colour 15
+added 2445 in colour 71
+added 6579 in colour 0
+added 6579 in colour 0
+added 3030 in colour 72
+added 6579 in colour 0
+added 2445 in colour 0
+added 3034 in colour 15
+added 47397 in colour 71
+added 54384 in colour 71
+added 3030 in colour 71
+added 30565 in colour 70
+added 973c27h03pr1729 in colour 15
+added 973c27h03pr1897 in colour 15
+added 30384 in colour 40
+added 6069pr0007 in colour 8
+added 40243 in colour 19
+added 6125 in colour 15
+Confirmed 100% 7913-1 Clone Trooper Battle Pack
+Confirmed 100% 4752-1 Professor Lupin's Classroom
+added 973c34h03pr0480 in colour 15
+added 92742pr0001 in colour 15
+added 2417 in colour 2
+added 50859a in colour 0
+added 50861 in colour 0
+added 50860 in colour 72
+added 970c00pr9999 in colour 28
+added 43719 in colour 27
+added 2417 in colour 2
+added 2423 in colour 326
+added 3021 in colour 27
+added 30602pr0013 in colour 27
+added 47753pr0003 in colour 28
+added 3020 in colour 320
+added 98136 in colour 27
+added 973c12h02pr0907 in colour 72
+added 30151a in colour 42
+added 6134 in colour 1
+added 4204 in colour 72
+added 970x026 in colour 15
+added 973c26h02pr1374 in colour 19
+added 60752 in colour 80
+added 60752 in colour 71
+added 60752 in colour 179
+added 6141 in colour 71
+added 30240 in colour 72
+added 2339 in colour 70
+added 30382 in colour 6
+added 61975 in colour 70
+added 4499 in colour 70
+added 30176 in colour 2
+added 46667 in colour 72
+added 30180 in colour 15
+added 32249 in colour 1
+added 32348 in colour 71
+added 3062b in colour 57
+added 2357 in colour 71
+added 61189pr0008 in colour 25
+added 3941 in colour 4
+added 970x026pr0197 in colour 15
+added 30367b in colour 71
+added 32018 in colour 72
+added 2540 in colour 15
+added 40253 in colour 70
+added 44674pr0001 in colour 27
+added 30381 in colour 0
+added 6580 in colour 72
+Confirmed 72.43% 8384-1 Jungle Crasher
+added 2412b in colour 42
+added 98136 in colour 27
+added 3039pr0015 in colour 0
+added 4349 in colour 0
+added 3069bpr0087 in colour 19
+Confirmed 67.71% 7620-1 Indiana Jones Motorcycle Chase
+added 30238 in colour 25
+Confirmed 53.65% 9440-1 Venomari Shrine
+added 33009pr0007 in colour 4
+added 43712 in colour 71
+added 41889 in colour 148
+Confirmed 43.75% 7111-1 Droid Fighter
+added 30180 in colour 15
+added 3039pr0015 in colour 0
+added 30378 in colour 19
+added 30376 in colour 19
+added 59230 in colour 19
+Confirmed 29.33% 8091-1 Republic Swamp Speeder
+Confirmed 36.98% 8019-1 Republic Attack Shuttle
+added 6126a in colour 57
+added 30385 in colour 297
+Confirmed 22.71% 79002-1 Attack of the Wargs
+Confirmed 2.5% 5222-1 Chassis Pack
+
+
+
+Results
+
+4752: Professor Lupin's Classroom 	- yes
+7111: Droid Fighter			- yes
+7620: Indiana Jones Motorcycle Chase	- yes
+7913: Clone Trooper Battle Pack		- yes
+8019: Republic Attack Shuttle		- yes
+8091: Republic Swamp Speeder		- yes
+8384: Jungle Crasher			- yes
+9440: Venomari Shrine			- yes
+30240: Z-95 Headhunter			- no
+79002: Attack of the Wargs		- yes
+
+
+Accuracy 9/10
+Time 02:23:28.43 

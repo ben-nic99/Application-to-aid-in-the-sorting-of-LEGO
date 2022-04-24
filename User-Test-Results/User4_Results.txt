@@ -1,0 +1,149 @@
+added 2417 in colour 2
+added 2417 in colour 2
+added 2417 in colour 2
+added 3795 in colour 2
+added 3020 in colour 2
+added 30503 in colour 2
+added 6003 in colour 2
+added 6003 in colour 2
+added 2423 in colour 326
+added 3030 in colour 2
+added 42446 in colour 2
+added 30176 in colour 2
+added 2431 in colour 378
+added 41770 in colour 2
+added 4201 in colour 72
+added 6003 in colour 72
+added 3030 in colour 72
+added 6003 in colour 72
+added 4204 in colour 72
+added 43712 in colour 71
+added 43712 in colour 71
+added 3030 in colour 71
+added 3035 in colour 71
+added 3035 in colour 71
+added 3036 in colour 71
+added 50304 in colour 71
+added 54383 in colour 71
+added 3035 in colour 71
+added 3036 in colour 71
+added 6112 in colour 71
+added 3036 in colour 71
+added 88930 in colour 71
+added 47397 in colour 71
+added 88930 in colour 71
+added 3023 in colour 71
+added 3021 in colour 71
+added 3032 in colour 71
+added 3795 in colour 71
+added 3031 in colour 71
+added 50305 in colour 71
+added 3035 in colour 71
+added 3021 in colour 71
+added 43722 in colour 71
+added 4510 in colour 71
+added 48183 in colour 71
+added 3795 in colour 71
+added 30240 in colour 72
+added 50859a in colour 0
+added 44674pr0001 in colour 27
+added 50860 in colour 72
+added 41531 in colour 71
+added 6579 in colour 0
+added 6579 in colour 0
+added 6579 in colour 0
+added 6579 in colour 0
+added 6580 in colour 72
+added 6580 in colour 72
+added 60208 in colour 71
+added 60208 in colour 15
+added 60208 in colour 71
+added 6580 in colour 71
+added 47753pr0003 in colour 28
+added 60594 in colour 0
+Confirmed 71.95% 8384-1 Jungle Crasher
+added 98134 in colour 297
+added 973c12h02pr0907 in colour 72
+added 30367b in colour 42
+Confirmed 55.06% K7623-1 Indiana Jones Classic Adventures Collection
+added 3737 in colour 0
+added 41678 in colour 0
+added 40243 in colour 19
+added 40243 in colour 19
+added 61189pr0003 in colour 15
+added 30180 in colour 15
+Confirmed 100% 4752-1 Professor Lupin's Classroom
+added 40249 in colour 19
+added 3626bpr0516 in colour 78
+added 2431pr0029 in colour 8
+added 6125 in colour 15
+added 61189pr0008 in colour 25
+added 61189pr0001 in colour 15
+Confirmed 100% 7913-1 Clone Trooper Battle Pack
+Confirmed 46% 8019-1 Republic Attack Shuttle
+added 973c26h02pr1374 in colour 19
+added 41889 in colour 148
+added 98132 in colour 297
+added 30376 in colour 19
+added 973c07h02pr1370 in colour 308
+added 973c11h19pr2063 in colour 308
+added 98136 in colour 27
+Confirmed 40.04% 9440-1 Venomari Shrine
+added 33009pr0007 in colour 4
+added 46667 in colour 72
+added 4499 in colour 70
+added 30088 in colour 0
+Confirmed 25.72% 8091-1 Republic Swamp Speeder
+added 30602pr0013 in colour 27
+added 970c00pr9999 in colour 28
+added 57899 in colour 0
+added 30088 in colour 0
+added 6126b in colour 57
+added 970x308pr0469 in colour 28
+added 6126b in colour 41
+Confirmed 59.33% 79002-1 Attack of the Wargs
+added 3039pr0015 in colour 0
+added 2339 in colour 70
+added 2339 in colour 70
+added 98284 in colour 70
+added 30384 in colour 40
+added 973c27h03pr1897 in colour 15
+added 92742pr0001 in colour 15
+added 43898 in colour 0
+added 298c02 in colour 0
+added 3679 in colour 71
+added 3680 in colour 0
+added 30238 in colour 25
+added 30382 in colour 6
+added 30382 in colour 6
+added 30382 in colour 6
+added 40253 in colour 70
+added 47758 in colour 0
+added 60474 in colour 0
+added 61485 in colour 0
+added 6120 in colour 15
+added 6120 in colour 15
+Confirmed 48.86% 7111-1 Droid Fighter
+added 57899 in colour 0
+added 3626b in colour 57
+added 3957a in colour 42
+added 60752 in colour 71
+Confirmed 38.06% 7198-1 Fighter Plane Attack
+
+
+Results
+
+4752: Professor Lupin's Classroom 	- yes
+7111: Droid Fighter			- yes
+7620: Indiana Jones Motorcycle Chase	- no
+7913: Clone Trooper Battle Pack		- yes
+8019: Republic Attack Shuttle		- yes
+8091: Republic Swamp Speeder		- yes
+8384: Jungle Crasher			- yes
+9440: Venomari Shrine			- yes
+30240: Z-95 Headhunter			- no
+79002: Attack of the Wargs		- yes
+
+
+Accuracy 8/10
+Time 01:31:52.40 

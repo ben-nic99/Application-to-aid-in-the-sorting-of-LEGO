@@ -1,0 +1,85 @@
+added 98133pr0001 in colour 15
+added 2417 in colour 2
+added 50860 in colour 72
+added 50862 in colour 71
+added 6579 in colour 0
+added 6579 in colour 0
+added 4740pr0006 in colour 28
+added 30602pr0013 in colour 27
+added 30240 in colour 72
+added 61976 in colour 70
+added 973c34h03pr0480 in colour 15
+Confirmed 100% 7913-1 Clone Trooper Battle Pack
+added 40253 in colour 70
+Confirmed 100% 4752-1 Professor Lupin's Classroom
+added 98134 in colour 297
+added 3039pr0015 in colour 0
+added 2412b in colour 42
+added 3666 in colour 27
+added 98136 in colour 27
+added 973c11h19pr2063 in colour 308
+added 3626bpr0190 in colour 15
+added 30367b in colour 42
+added 92742pr0001 in colour 15
+added 30173b in colour 80
+added 6069pr0007 in colour 8
+added 2436 in colour 2
+added 3702 in colour 71
+added 40243 in colour 19
+added 6069pr0007 in colour 8
+added 6120 in colour 15
+added 98132 in colour 297
+added 4204 in colour 72
+added 30376 in colour 19
+added 43712 in colour 71
+added 41889 in colour 80
+added 41889 in colour 135
+added 6125 in colour 15
+added 6580 in colour 72
+added 973c26h02pr1374 in colour 19
+Confirmed 64.09% 7620-1 Indiana Jones Motorcycle Chase
+added 44674pr0001 in colour 27
+added 4079 in colour 1
+added 47758 in colour 0
+Confirmed 72.98% 8384-1 Jungle Crasher
+added 57899 in colour 0
+Confirmed 43.75% 7111-1 Droid Fighter
+added 30046 in colour 0
+added 30044 in colour 72
+added 6126a in colour 57
+added 98283 in colour 28
+added 4495b in colour 4
+added 30088 in colour 0
+added 3626b in colour 57
+added 6126a in colour 41
+added 46667 in colour 72
+added 30384 in colour 40
+added 64647 in colour 57
+added 98138pr0004 in colour 34
+Confirmed 52.61% 9440-1 Venomari Shrine
+added 4499 in colour 70
+added 4498 in colour 70
+Confirmed 40.73% 79002-1 Attack of the Wargs
+added 30385 in colour 297
+Confirmed 12.76% 8091-1 Republic Swamp Speeder
+Confirmed 5.47% 7674-1 V-19 Torrent
+Confirmed 2.72% BIGBOX-1 The Ultimate Battle for Chima
+
+
+
+Results
+
+4752: Professor Lupin's Classroom 	- yes
+7111: Droid Fighter			- yes
+7620: Indiana Jones Motorcycle Chase	- yes
+7913: Clone Trooper Battle Pack		- yes
+8019: Republic Attack Shuttle		- no
+8091: Republic Swamp Speeder		- yes
+8384: Jungle Crasher			- yes
+9440: Venomari Shrine			- yes
+30240: Z-95 Headhunter			- no
+79002: Attack of the Wargs		- yes
+
+
+Accuracy 8/10
+Time 01:19:33.11 
